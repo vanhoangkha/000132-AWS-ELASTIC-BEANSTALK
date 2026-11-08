@@ -1,4 +1,4 @@
-# 🌱 AWS Elastic Beanstalk
+# AWS Elastic Beanstalk
 
 Deploy and manage applications with Elastic Beanstalk.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000132-AWS-ELASTIC-BEANSTALK/)**
+**[Start the workshop](https://vanhoangkha.github.io/000132-AWS-ELASTIC-BEANSTALK/)**
 
 ## Prerequisites
 
